@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khodyriev
-- 👀 I’m interested in web development (Full-Stack)
-- 🌱 I’m currently learning "Become a Full-Stack Web Developer" by LinkedIn Learning
+- 👀 I’m interested in web development (Front-End)
+- 🌱 I’m currently learning "Become a Full-Stack Web Developer" by LinkedIn Learning  and other courses
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: khodirevgennadiy@gmail.com
 
